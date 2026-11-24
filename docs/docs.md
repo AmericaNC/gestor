@@ -265,3 +265,4 @@ Invoke-RestMethod -Method Post -Uri "https://gestor-nez2fd8c2-fernandanevarez717
 ## Pendiente
 * Realizar el consumo de la API desde componentes (como el componente de locales, no desde terminal pero aqui lo djo para referencias).
 * Realizar el diseño UX/UI.
+* Realizar el diseño UX/UI.
